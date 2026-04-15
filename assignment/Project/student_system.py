@@ -15,7 +15,7 @@ def load_data():
 
 def save_data():
     with open(FILE_NAME, "w") as file:
-        json.dump(students, file)
+        json.dump(students, file, indent=4)
 
 # ================= VALIDATION =================
 
@@ -50,7 +50,8 @@ def choose_department():
         "Software Engineering",
         "Computer Science",
         "Information System",
-        "Information Technology"
+        "Information Technology",
+        
     ]
 
     print("\nChoose Department:")

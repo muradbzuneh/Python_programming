@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Django local database
+db.sqlite3
+Django/blog/db.sqlite3
