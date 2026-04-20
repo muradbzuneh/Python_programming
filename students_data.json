@@ -1,1 +1,50 @@
-[{"id": "WOUR/1492/16", "name": "Murad bzuneh", "department": "Computer Science", "gpa": 4.0}, {"id": "WOUR/1067/16", "name": "Hubeyb Awol", "department": "Information System", "gpa": 4.0}, {"id": "WOUR/1152/15", "name": "kIDAN YIRGA", "department": "Computer Science", "gpa": 4.0}, {"id": "WOUR/3963/16", "name": "MAHLET", "department": "Information Technology", "gpa": 4.0}, {"id": "WOUR/1320/16", "name": "Mena Mulugeta", "department": "Software Engineering", "gpa": 3.8}, {"id": "WOUR/2343/23", "name": "MUHRT", "department": "Information System", "gpa": 3.5}, {"id": "WOUR/1432/12", "name": "MUF", "department": "Information System", "gpa": 4.0}]
+[
+    {
+        "id": "WOUR/1492/16",
+        "name": "Murad bzuneh",
+        "department": "Computer Science",
+        "gpa": 4.0
+    },
+    {
+        "id": "WOUR/1067/16",
+        "name": "Hubeyb Awol",
+        "department": "Information System",
+        "gpa": 4.0
+    },
+    {
+        "id": "WOUR/1152/15",
+        "name": "kIDAN YIRGA",
+        "department": "Computer Science",
+        "gpa": 4.0
+    },
+    {
+        "id": "WOUR/3963/16",
+        "name": "MAHLET",
+        "department": "Information Technology",
+        "gpa": 4.0
+    },
+    {
+        "id": "WOUR/1320/16",
+        "name": "Mena Mulugeta",
+        "department": "Software Engineering",
+        "gpa": 3.8
+    },
+    {
+        "id": "WOUR/2343/23",
+        "name": "MUHRT",
+        "department": "Information System",
+        "gpa": 3.5
+    },
+    {
+        "id": "WOUR/1432/12",
+        "name": "MUF",
+        "department": "Information System",
+        "gpa": 4.0
+    },
+    {
+        "id": "WOUR/12/32",
+        "name": "HUBEYB",
+        "department": "Computer Science",
+        "gpa": 3.4
+    }
+]
